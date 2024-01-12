@@ -1,3 +1,3 @@
 select sum(population)
 from city
-where countrycode = "JPN"
+where countrycode = "JPN";
